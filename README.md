@@ -6,7 +6,7 @@ Source: Kaggle – https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-d
 
 Attributes include: pregnancies, glucose, blood pressure, skin thickness, insulin, BMI, diabetes pedigree function, and age.
 
-Machine Learning Model
+Machine Learning Model\n
 Algorithm: Support Vector Machine (SVM)
 Kernel: Linear
 
